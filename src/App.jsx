@@ -6,9 +6,9 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <>
+    <div className='p-4'>
      <Form></Form>
-    </>
+    </div>
   )
 }
 
